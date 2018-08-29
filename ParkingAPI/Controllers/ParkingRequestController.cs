@@ -12,6 +12,7 @@ namespace ParkingAPI.Controllers
     [RoutePrefix("api/ParkingRequest")]
     public class ParkingRequestController : ApiController
     {
+        //Test comments
         string SQLConnstr = "Server=B2ML27954;Database=ParkingDB;Integrated Security=SSPI;";
         // GET: api/ParkingRequest
         [Route("Requests")]
