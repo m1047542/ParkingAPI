@@ -1,2 +1,2 @@
 "# ParkingAPI" 
-Testing event grid publish from github repositor
+Testing event grid publish from github repository
