@@ -1,2 +1,2 @@
 "# ParkingAPI" 
-Testing event grid publish from github repository
+Testing github events publish from github repository to event grid topic through azure function
